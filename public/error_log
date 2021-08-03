@@ -1,0 +1,2 @@
+[10-Jul-2021 08:51:48 UTC] PHP Warning:  require(/home/iltspk/public_html/vendor/composer/../symfony/polyfill-php80/bootstrap.php): failed to open stream: No such file or directory in /home/iltspk/public_html/vendor/composer/autoload_real.php on line 69
+[10-Jul-2021 08:51:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/iltspk/public_html/vendor/composer/../symfony/polyfill-php80/bootstrap.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/iltspk/public_html/vendor/composer/autoload_real.php on line 69
